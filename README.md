@@ -1,6 +1,6 @@
 ## Zolander
 
-Just a more robust version of Davead's Zola quick note initializer https://github.com/daveads/daveads.github.io/blob/main/scripts/create_md.py
+Just a more robust version of Daveads Zola note initializer https://github.com/daveads/daveads.github.io/blob/main/scripts/create_md.py
 
 * added templates choices ( extensible )
 * configuration files
@@ -13,7 +13,7 @@ Just a more robust version of Davead's Zola quick note initializer https://githu
 
 ## What it does
 
-A simple CLI tool for quickly creating markdown notes for your Zola blog. Run it, answer a few questions, and boom - new note ready to go in your content folder.
+A simple CLI tool for quickly creating markdown notes for your Zola blog. Run it, answer a few questions, ???, profit.
 
 ## Setup
 

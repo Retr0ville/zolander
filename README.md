@@ -7,8 +7,6 @@ Just a more robust version of Daveads Zola note initializer https://github.com/d
 * actually useful input validations
 
 
-> Dude should be thanking me :)
-
 ---
 
 ## What it does

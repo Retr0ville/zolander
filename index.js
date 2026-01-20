@@ -10,8 +10,6 @@ const __dirname = dirname(__filename);
 
 const blogFolder = resolve(setup.blog_folder);
 
-console.log(blogFolder);
-
 const hollas = [
   "Ola!",
   "Hello",
@@ -42,8 +40,6 @@ const templateOptions = readdirSync(templatePath).filter((file) =>
   file.endsWith(".md"),
 );
 const defaultTemplate = templateOptions.find((file) => file === "default.md");
-
-console.log(process.argv, defaultTemplate);
 
 console.info(
   hollas[Math.floor(Math.random() * hollas.length)].toLocaleUpperCase(),

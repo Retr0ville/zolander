@@ -5,5 +5,7 @@ Just a more robust version of Davead's Zola quick note initializer https://githu
 * added templates choices ( extensible )
 * configuration files
 * actually useful input validations
-Dude should be thanking me 🙂
+
+
+> Dude should be thanking me 🙂
 
